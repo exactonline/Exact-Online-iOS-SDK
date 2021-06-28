@@ -2,6 +2,8 @@
 
 # iOS Exact Online SDK
 
+<h3>Not supported anymore by Exact</h3>
+
 [Exact Online](http://www.exactonline.com/) is the business software that automates your manufacturing, logistics and CRM in the cloud.
 <br/> This Objective-C SDK provides easy access to Exact Online API for iOS apps. More information about [Exact Online](http://www.exactonline.com/), [API Documentation](https://developers.exactonline.com/).
 Feel free to get in touch with us in regards to any questions or cooperation requests via email [info@moqod.com](mailto:info@moqod.com).<br/>
